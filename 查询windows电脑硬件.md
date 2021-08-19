@@ -20,3 +20,7 @@ cmd -> msinfo32
 cmd -> wmic
 baseboard get manufacturer,product
 ```
+
+#### 查询电脑属性小工具
+
+
